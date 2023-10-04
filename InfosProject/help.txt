@@ -1,0 +1,17 @@
+How to run the project:
+    Select run program
+    The program will ask what you would like to do
+    The options are to search by typing 'search' or to view previously searched movies by typing 'prev'
+        If you choose to search a movie, the program will ask you to enter a title
+        Type in a title and click enter
+        The program will run and store your search to a .json file which will allow it to be accessed as a previous search
+    Type in 'done' to stop the program
+
+View code markdown within the main package "src.ipynb"
+
+Note:
+    1.) 'movies.txt' and 'testing.py' were used for my own testing, 
+       I left them in the folder as it may aid you in my retrospective section.
+    2.) The tkinter and linked .png image were supposed to be for added functionality but even 
+        though they work i thought to not incorpate them as to not complicate the marking process.
+        It's meant to be a fun GUI for added user experience.

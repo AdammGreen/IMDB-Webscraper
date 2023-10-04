@@ -1,0 +1,85 @@
+{
+    "movie": [
+        {
+            "title": "Up",
+            "year": "2009",
+            "rated": "PG",
+            "released": "29 May 2009",
+            "runtime": "96 min",
+            "genre": "Animation, Adventure, Comedy",
+            "director": "Pete Docter, Bob Peterson",
+            "writer": "Pete Docter, Bob Peterson, Tom McCarthy",
+            "actors": "Edward Asner, Jordan Nagai, John Ratzenberger",
+            "plot": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+            "language": "English",
+            "country": "United States",
+            "awards": "Won 2 Oscars. 79 wins & 87 nominations total",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX300.jpg",
+            "ratings": [
+                {
+                    "source": "Internet Movie Database",
+                    "value": "8.3/10"
+                },
+                {
+                    "source": "Rotten Tomatoes",
+                    "value": "98%"
+                },
+                {
+                    "source": "Metacritic",
+                    "value": "88/100"
+                }
+            ],
+            "metascore": "88",
+            "imdb_rating": "8.3",
+            "imdb_votes": "1,009,850",
+            "imdb_id": "tt1049413",
+            "type": "movie",
+            "dvd": "10 Nov 2009",
+            "box_office": "$293,004,164",
+            "production": "N/A",
+            "website": "N/A",
+            "response": "True"
+        },
+        {
+            "title": "Inception",
+            "year": "2010",
+            "rated": "PG-13",
+            "released": "16 Jul 2010",
+            "runtime": "148 min",
+            "genre": "Action, Adventure, Sci-Fi",
+            "director": "Christopher Nolan",
+            "writer": "Christopher Nolan",
+            "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+            "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+            "language": "English, Japanese, French",
+            "country": "United States, United Kingdom",
+            "awards": "Won 4 Oscars. 157 wins & 220 nominations total",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+            "ratings": [
+                {
+                    "source": "Internet Movie Database",
+                    "value": "8.8/10"
+                },
+                {
+                    "source": "Rotten Tomatoes",
+                    "value": "87%"
+                },
+                {
+                    "source": "Metacritic",
+                    "value": "74/100"
+                }
+            ],
+            "metascore": "74",
+            "imdb_rating": "8.8",
+            "imdb_votes": "2,262,798",
+            "imdb_id": "tt1375666",
+            "type": "movie",
+            "dvd": "07 Dec 2010",
+            "box_office": "$292,587,330",
+            "production": "N/A",
+            "website": "N/A",
+            "response": "True"
+        }
+    ]
+    
+}
